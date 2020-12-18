@@ -1,5 +1,5 @@
 ```js
-import Desenvolvedor from 'JuliosDev';
+import Desenvolvedor from 'JuliosFilgueiras';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Júlio Filgueiras';
