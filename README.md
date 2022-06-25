@@ -4,15 +4,15 @@ import Desenvolvedor from 'JuliosFilgueiras';
 class SobreMim extends Desenvolvedor {
   nome     = 'Júlio Filgueiras';
   area    = 'Desenvolvimento web';
-  trabalho  = 'Simple Tecnologia da Informação';
-  local = 'Salvador, Bahia - Brazil';
+  trabalho  = 'Din Digital';
+  local = 'Santo André - SP (Home Office)';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['php', 'golang', 'html', 'css', 'javascrpt'];
+  linguagens  = ['php', 'golang', 'html', 'css', 'javascript', 'nodejs', 'typerscript'];
   ferramentas  = ['git/github', 'postman'];
   frameworks = ['laravel', 'livewire'];
-  frameworksJs = ['VueJS'];
+  bancos = ['MySQL', 'MongoDB'];
   orms = ['eloquent', 'gorm'];
 }
 ```
